@@ -1,0 +1,7 @@
+*.Rhistory
+.Rhistory
+output/
+ipynb_checkpoints/
+.ipynb_checkpoints/
+.here/
+*.here
